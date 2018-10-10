@@ -1,0 +1,23 @@
+{
+  "name": "und3rground",
+  "version": "1.0.0",
+  "description": "the route to success",
+  "main": "route.js",
+  "scripts": {
+    "test": "mocha ./test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollie28/UND3RGROUND.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollie28/UND3RGROUND/issues"
+  },
+  "homepage": "https://github.com/ollie28/UND3RGROUND#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
